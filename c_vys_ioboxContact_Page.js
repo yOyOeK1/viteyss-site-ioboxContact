@@ -12,7 +12,7 @@ class s_vysioboxContactPage{
   }
   
   get getName(){
-    return `vys ioboxContact`;
+    return `Iobox Contact`;
   }
     
   
